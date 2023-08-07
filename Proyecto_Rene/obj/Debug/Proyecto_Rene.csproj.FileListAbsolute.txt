@@ -1,0 +1,12 @@
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\bin\Debug\Proyecto_Rene.exe.config
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\bin\Debug\Proyecto_Rene.exe
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\bin\Debug\Proyecto_Rene.pdb
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.csproj.AssemblyReference.cache
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.Properties.Resources.resources
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.Recursos.ControldeUsuario1.resources
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.csproj.GenerateResource.cache
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.exe
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.pdb
+D:\Visual Studio\Proyectos\Proyecto_Rene\Proyecto_Rene\obj\Debug\Proyecto_Rene.Form1.resources
